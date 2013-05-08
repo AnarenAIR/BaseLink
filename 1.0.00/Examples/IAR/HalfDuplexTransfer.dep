@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>286308750</fileChecksum>
+  <configuration>
+    <name>ENDPOINT_A110LR09BP430G2x53</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\Source\_Platforms\MSP430\BPEXP430G2x53.c</file>
+      <file>$PROJ_DIR$\..\Source\HalfDuplexTransfer\EndPoint\HalfDuplexTransfer.c</file>
+      <file>$PROJ_DIR$\..\..\Source\API\API.c</file>
+      <file>$PROJ_DIR$\..\..\code\API\API.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.h</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\PhyBridge\PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09Config.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110x2500.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\code\API\API.c</file>
+      <file>$PROJ_DIR$\..\src\HalfDuplexTransfer\EndPoint\HalfDuplexTransfer.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09Config.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\..\..\platform\A110x2500\MSP430\EXP430G2x53.c</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A1101PhyBridge.c</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Obj\HalfDuplexTransfer.r43</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Obj\API.r43</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Obj\A110x2500BP430G2x53.r43</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Obj\Frame.r43</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Obj\A110LR09.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.d43</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Obj\CC1101.r43</file>
+      <file>$PROJ_DIR$\..\src\HalfDuplexTransfer\EndPoint\HalfDuplexTransferLR09Config.h</file>
+      <file>$PROJ_DIR$\..\src\HalfDuplexTransfer\EndPoint\Platform\A110x2500BP430G2x53.c</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\API.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\HalfDuplexTransfer.pbi</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.d43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\assert.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110LR09.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\HalfDuplexTransfer.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\CC1101.pbi</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Obj\A1101PhyBridge.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110x2500BP430G2x53.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110x2500PhyBridge.pbi</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A1101PhyBridge.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.ulp</file>
+      <file>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Obj\PhyAddress.r43</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\Frame.pbi</file>
+      <file>$TOOLKIT_DIR$\config\lnk430G2553.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110LR09.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\Frame.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\API.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\PhyAddress.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\PhyAddress.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110x2500PhyBridge.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110x2500BP430G2x53.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\CC1101.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\EXP430G2x53.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\EXP430G2x53.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\BPEXP430G2x53.pbi</file>
+      <file>$PROJ_DIR$\..\Source\HalfDuplexTransfer\EndPoint\HalfDuplexTransferLR09Config.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\BPEXP430G2x53.r43</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\PhyBridge\PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\Source\API\API.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09Config.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110x2500.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\Source\_Platforms\MSP430\BPEXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77 31 35 59 83 81 86 87 85 84</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83 81 35 59 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Source\HalfDuplexTransfer\EndPoint\HalfDuplexTransfer.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77 31 35 59 29 36 60 27 28 66 63 67 32 82</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 36 60 27 28 66 63 67 32 82</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\API\API.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77 31 35 59 82 79 81 80 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82 79 81 80 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77 31 35 59 29 36 60 27 28 66 63 67 32 79 81 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 36 60 27 28 66 63 67 32 79 81 80</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77 31 35 59 80 29 36 60 27 28 66 63 67 32 81</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80 29 36 60 27 28 66 63 67 32 81</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77 31 35 59 85 49 36 60 27 28 66 63 67</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 49 36 60 27 28 66 63 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77 31 35 59 29 36 60 27 28 66 63 67 32 86 87 85 84</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 36 60 27 28 66 63 67 32 86 87 85 84</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77 31 35 59 83 81 86 87 85 84 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83 81 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\API\API.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 31 35 59 3 5 8 7 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 5 8 7 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\EndPoint\HalfDuplexTransfer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 31 35 59 29 36 60 27 28 66 63 67 32 5 8 7</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 36 60 27 28 66 63 67 32 5 8 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 31 35 59 7 29 36 60 27 28 66 63 67 32 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 29 36 60 27 28 66 63 67 32 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 31 35 59 10 49 36 60 27 28 66 63 67</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 49 36 60 27 28 66 63 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.c</name>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 14 10 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 31 35 59 16 8 13 14 10 12 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 8 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 31 35 59 13 14 10 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 14 10 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\platform\A110x2500\MSP430\EXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 8 35 59 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A1101PhyBridge.c</name>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 31 35 59 56 8 13 14 10 12 29 36 60 27 28 66 63 67 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 62 50 71 46 78 73 65 51 70 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\EndPoint\Platform\A110x2500BP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 31 35 59 16 8 13 14 10 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 8 35 59 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ENDPOINT_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 62 53 41 39 38 43 40 37 58 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\Source\HalfDuplexTransfer\Gateway\HalfDuplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\EndPoint\HalfDuplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A2500R24\A2500R24.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\Gateway\HalfDuplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\Gateway\Platform\A110x2500BP430G2x53.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>GATEWAY_A110LR09BP430G2x53</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\Source\HalfDuplexTransfer\Gateway\HalfDuplexTransfer.c</file>
+      <file>$PROJ_DIR$\..\Source\_Platforms\MSP430\BPEXP430G2x53.c</file>
+      <file>$PROJ_DIR$\..\..\Source\API\API.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\PhyBridge\PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09Config.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110x2500.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\code\API\API.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09Config.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\..\..\platform\A110x2500\MSP430\EXP430G2x53.c</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A1101PhyBridge.c</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\assert.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A1101PhyBridge.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk430G2553.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\PhyBridge\PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\Source\API\API.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09Config.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110x2500.h</file>
+      <file>$PROJ_DIR$\..\src\HalfDuplexTransfer\Gateway\HalfDuplexTransfer.c</file>
+      <file>$PROJ_DIR$\..\src\HalfDuplexTransfer\Gateway\Platform\A110x2500BP430G2x53.c</file>
+      <file>$PROJ_DIR$\..\..\platforms\A110x2500\MSP430\BPEXP430G2x53.c</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.ulp</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.d43</file>
+      <file>$PROJ_DIR$\..\..\platform\A110x2500\MSP430\BPEXP430G2x53.c</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A1101PhyBridge.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.d43</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Obj\Frame.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110x2500PhyBridge.r43</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Obj\A110x2500BP430G2x53.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110x2500PhyBridge.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\Frame.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\HalfDuplexTransfer.pbi</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Obj\A110LR09.r43</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Obj\HalfDuplexTransfer.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\BPEXP430G2x53.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110LR09.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\PhyAddress.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\BPEXP430G2x53.r43</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Obj\CC1101.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\PhyAddress.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\EXP430G2x53.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\API.pbi</file>
+      <file>$PROJ_DIR$\..\src\HalfDuplexTransfer\Gateway\HalfDuplexTransferLR09Config.h</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\HalfDuplexTransfer.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A1101PhyBridge.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\CC1101.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110x2500BP430G2x53.pbi</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Obj\PhyAddress.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\Frame.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110LR09.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\CC1101.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\API.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\EXP430G2x53.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110x2500BP430G2x53.r43</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Obj\API.r43</file>
+      <file>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Obj\A1101PhyBridge.r43</file>
+      <file>$PROJ_DIR$\..\Source\HalfDuplexTransfer\Gateway\HalfDuplexTransferLR09Config.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\Source\HalfDuplexTransfer\Gateway\HalfDuplexTransfer.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 88 27 31 35 25 32 36 23 24 39 38 40 28 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 32 36 23 24 39 38 40 28 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Source\_Platforms\MSP430\BPEXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 88 27 31 35 45 43 48 49 47 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45 43 31 35 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\API\API.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 88 27 31 35 44 41 43 42 25 32 36 23 24 39 38 40 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 41 43 42 25 32 36 23 24 39 38 40 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 88 27 31 35 25 32 36 23 24 39 38 40 28 41 43 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 32 36 23 24 39 38 40 28 41 43 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 88 27 31 35 42 25 32 36 23 24 39 38 40 28 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 25 32 36 23 24 39 38 40 28 43</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 88 27 31 35 47 33 32 36 23 24 39 38 40</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47 33 32 36 23 24 39 38 40</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 88 27 31 35 25 32 36 23 24 39 38 40 28 48 49 47 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 32 36 23 24 39 38 40 28 48 49 47 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 88 27 31 35 45 43 48 49 47 46 25 32 36 23 24 39 38 40 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45 43 25 32 36 23 24 39 38 40 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\API\API.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.c</name>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 74 27 31 35 21 11 7 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 11 7 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\platform\A110x2500\MSP430\EXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A1101PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 74 27 31 35 34 5 10 11 7 9 25 32 36 23 24 39 38 40 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\Gateway\HalfDuplexTransfer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\Gateway\Platform\A110x2500BP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 74 27 31 35 13 5 10 11 7 9</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 5 31 35 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\platforms\A110x2500\MSP430\BPEXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GATEWAY_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 37 87 64 60 86 70 58 65 79 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\platform\A110x2500\MSP430\BPEXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 5 31 35 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Exe\HalfDuplexTransfer.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 37 81 59 83 69 82 80 75 68 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\API\API.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\EndPoint\HalfDuplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\EndPoint\Platform\A110x2500BP430G2x53.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A2500R24\A2500R24.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\HalfDuplexTransfer\Gateway\HalfDuplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\platforms\A110x2500\MSP430\BPEXP430G2x53.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R08\A1101R08.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

@@ -1,0 +1,5 @@
+The driver is provided as-is under the GNU Lesser General Public License, version 2.1 (LGPL-2.1). 
+This license allows users to use the software under certain restrictions. For more information on 
+the licensing agreement, please visit http://www.gnu.org/copyleft/lesser.html.
+
+Please contact air@anaren.com with any comments or questions for this document.

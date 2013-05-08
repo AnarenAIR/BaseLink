@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2945974583</fileChecksum>
+  <configuration>
+    <name>ENDPOINT_A110LR09BP430G2x53</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\BPEXP430G2x53.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\BPEXP430G2x53.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Exe\SimplexTransfer.d43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\API.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\SimplexTransfer.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Exe\SimplexTransfer.ulp</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\List\SimplexTransfer.map</file>
+      <file>$PROJ_DIR$\..\..\code\API\API.c</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\Frame.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110LR09.r43</file>
+      <file>$PROJ_DIR$\..\..\platforms\A110x2500\MSP430\BPEXP430G2x53.c</file>
+      <file>$PROJ_DIR$\..\src\SimplexTransfer\EndPoint\SimplexTransfer.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\PhyBridge\PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</file>
+      <file>$PROJ_DIR$\..\Source\SimplexTransfer\EndPoint\SimplexTransferLR09Config.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110x2500.h</file>
+      <file>$PROJ_DIR$\..\Source\_Platforms\MSP430\BPEXP430G2x53.c</file>
+      <file>$PROJ_DIR$\..\Source\SimplexTransfer\EndPoint\SimplexTransfer.c</file>
+      <file>$PROJ_DIR$\..\..\Source\API\API.c</file>
+      <file>$PROJ_DIR$\..\..\code\API\API.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.h</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\PhyBridge\PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09Config.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110x2500.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09Config.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.h</file>
+      <file>$PROJ_DIR$\..\..\Source\API\API.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110x2500PhyBridge.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\API.r43</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110x2500PhyBridge.pbi</file>
+      <file>$PROJ_DIR$\..\src\SimplexTransfer\EndPoint\SimplexTransferLR09Config.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\A110LR09.pbi</file>
+      <file>$TOOLKIT_DIR$\config\lnk430G2553.xcl</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\PhyAddress.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\SimplexTransfer.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\PhyAddress.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\CC1101.r43</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\CC1101.pbi</file>
+      <file>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Obj\Frame.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\assert.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\bin\ENDPOINT_A110LR09BP430G2x53\Exe\SimplexTransfer.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 52 11 47 48 2 64 10 53 55 41</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\API\API.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50 1 54 65 24 26 29 28 68 61 63 56 60 62 59 58 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24 26 29 28 68 61 63 56 60 62 59 58 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\platforms\A110x2500\MSP430\BPEXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50 1 54 65 37 29 34 35 31 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 29 54 65 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\SimplexTransfer\EndPoint\SimplexTransfer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50 1 54 65 68 61 63 56 60 62 59 58 0 26 29 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 61 63 56 60 62 59 58 0 26 29 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50 1 54 65 28 68 61 63 56 60 62 59 58 0 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 68 61 63 56 60 62 59 58 0 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50 1 54 65 31 69 61 63 56 60 62 59 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31 69 61 63 56 60 62 59 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50 1 54 65 68 61 63 56 60 62 59 58 0 34 35 31 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 61 63 56 60 62 59 58 0 34 35 31 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Source\_Platforms\MSP430\BPEXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 1 54 65 46 16 38 20 45 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 16 54 65 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Source\SimplexTransfer\EndPoint\SimplexTransfer.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 1 54 65 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\API\API.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 1 54 65 44 40 16 43 68 61 63 56 60 62 59 58 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 40 16 43 68 61 63 56 60 62 59 58 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 1 54 65 68 61 63 56 60 62 59 58 0 40 16 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 61 63 56 60 62 59 58 0 40 16 43</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 1 54 65 43 68 61 63 56 60 62 59 58 0 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 68 61 63 56 60 62 59 58 0 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 1 54 65 45 69 61 63 56 60 62 59 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45 69 61 63 56 60 62 59 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 1 54 65 68 61 63 56 60 62 59 58 0 38 20 45 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 61 63 56 60 62 59 58 0 38 20 45 39</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 1 54 65 46 16 38 20 45 39 68 61 63 56 60 62 59 58 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 16 68 61 63 56 60 62 59 58 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 50 1 54 65 37 29 34 35 31 33 68 61 63 56 60 62 59 58 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 29 68 61 63 56 60 62 59 58 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 4 8</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A2500R24\A2500R24.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\SimplexTransfer\Gateway\SimplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R08\A1101R08.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A1101R09\A1101R09.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\Source\SimplexTransfer\Gateway\SimplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>GATEWAY_A110LR09BP430G2x53</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\code\API\API.c</file>
+      <file>$PROJ_DIR$\..\..\platforms\A110x2500\MSP430\BPEXP430G2x53.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</file>
+      <file>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\PhyBridge\PhyBridge.h</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110x2500.h</file>
+      <file>$PROJ_DIR$\..\src\SimplexTransfer\Gateway\SimplexTransfer.c</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\List\SimplexTransfer.map</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\API.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\SimplexTransfer.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Exe\SimplexTransfer.d43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\API.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\SimplexTransfer.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Exe\SimplexTransfer.ulp</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\BPEXP430G2x53.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\Frame.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\CC1101.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\PhyAddress.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\BPEXP430G2x53.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\CC1101.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110LR09.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110LR09.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\PhyAddress.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\Frame.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110x2500PhyBridge.pbi</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\A110x2500PhyBridge.r43</file>
+      <file>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Obj\SimplexTransfer.pbd</file>
+      <file>$PROJ_DIR$\..\Source\SimplexTransfer\Gateway\SimplexTransferLR09Config.h</file>
+      <file>$PROJ_DIR$\..\Source\SimplexTransfer\Gateway\SimplexTransfer.c</file>
+      <file>$PROJ_DIR$\..\Source\_Platforms\MSP430\BPEXP430G2x53.c</file>
+      <file>$PROJ_DIR$\..\Source\SimplexTransfer\EndPoint\SimplexTransfer.c</file>
+      <file>$PROJ_DIR$\..\..\Source\API\API.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.c</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.c</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.c</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09Config.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.h</file>
+      <file>$PROJ_DIR$\..\..\Source\API\API.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.h</file>
+      <file>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk430G2553.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\assert.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\API\API.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\platforms\A110x2500\MSP430\BPEXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Driver\CC1101.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\SimplexTransfer\Gateway\SimplexTransfer.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\bin\GATEWAY_A110LR09BP430G2x53\Exe\SimplexTransfer.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 50 24 29 15 22 20 27 26 16 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Source\SimplexTransfer\Gateway\SimplexTransfer.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31 1 51 59 60 56 58 52 55 57 54 53 0 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 56 58 52 55 57 54 53 0 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Source\_Platforms\MSP430\BPEXP430G2x53.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31 1 51 59 49 6 41 9 48 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49 6 51 59 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\API\API.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31 1 51 59 47 43 6 46 60 56 58 52 55 57 54 53 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47 43 6 46 60 56 58 52 55 57 54 53 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DataLink\MAC\Frame.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31 1 51 59 60 56 58 52 55 57 54 53 0 43 6 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 56 58 52 55 57 54 53 0 43 6 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DataLink\MAC\PhyAddress.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31 1 51 59 46 60 56 58 52 55 57 54 53 0 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 60 56 58 52 55 57 54 53 0 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Driver\CC1101.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31 1 51 59 48 61 56 58 52 55 57 54 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 61 56 58 52 55 57 54 53</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\Module\A110LR09\A110LR09.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31 1 51 59 60 56 58 52 55 57 54 53 0 41 9 48 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 56 58 52 55 57 54 53 0 41 9 48 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31 1 51 59 49 6 41 9 48 42 60 56 58 52 55 57 54 53 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49 6 60 56 58 52 55 57 54 53 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\code\Physical\A110x2500\PhyBridge\A110x2500PhyBridge.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 14 11</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\API\API.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\platforms\A110x2500\MSP430\BPEXP430G2x53.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\SimplexTransfer\EndPoint\SimplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\Frame.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\code\DataLink\MAC\PhyAddress.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\SimplexTransfer\Gateway\SimplexTransfer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
